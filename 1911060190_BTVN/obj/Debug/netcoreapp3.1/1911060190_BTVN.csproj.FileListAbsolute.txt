@@ -1,0 +1,14 @@
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\bin\Debug\netcoreapp3.1\1911060190_BTVN.exe
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\bin\Debug\netcoreapp3.1\1911060190_BTVN.deps.json
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\bin\Debug\netcoreapp3.1\1911060190_BTVN.runtimeconfig.json
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\bin\Debug\netcoreapp3.1\1911060190_BTVN.runtimeconfig.dev.json
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\bin\Debug\netcoreapp3.1\1911060190_BTVN.dll
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\bin\Debug\netcoreapp3.1\1911060190_BTVN.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.csproj.AssemblyReference.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.AssemblyInfoInputs.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.AssemblyInfo.cs
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.dll
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\1911060190_BTVN\obj\Debug\netcoreapp3.1\1911060190_BTVN.genruntimeconfig.cache

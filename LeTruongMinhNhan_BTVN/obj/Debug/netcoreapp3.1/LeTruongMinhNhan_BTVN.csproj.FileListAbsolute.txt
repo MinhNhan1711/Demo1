@@ -1,0 +1,14 @@
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\bin\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.exe
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\bin\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.deps.json
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\bin\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.runtimeconfig.json
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\bin\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.runtimeconfig.dev.json
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\bin\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.dll
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\bin\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.csproj.AssemblyReference.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.AssemblyInfoInputs.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.AssemblyInfo.cs
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.dll
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\LeTruongMinhNhan_BTVN\obj\Debug\netcoreapp3.1\LeTruongMinhNhan_BTVN.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\bin\Debug\TetsLab5.exe
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\bin\Debug\TetsLab5.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.csproj.AssemblyReference.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.Form1.resources
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.Properties.Resources.resources
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.csproj.GenerateResource.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.exe
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\TetsLab5\obj\Debug\TetsLab5.pdb

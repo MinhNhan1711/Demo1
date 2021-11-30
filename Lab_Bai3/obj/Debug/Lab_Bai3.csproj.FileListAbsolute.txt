@@ -1,0 +1,9 @@
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\bin\Debug\Lab_Bai3.exe
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\bin\Debug\Lab_Bai3.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.Form1.resources
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.Properties.Resources.resources
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.csproj.GenerateResource.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.exe
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.pdb
+D:\Tai_Lieu_Hoc_ONLINE\TH_LaptrinhWindown\Lab_Bai3\obj\Debug\Lab_Bai3.csproj.AssemblyReference.cache
